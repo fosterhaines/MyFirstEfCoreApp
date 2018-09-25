@@ -1,0 +1,8 @@
+C:\dev\MyFirstEfCoreApp\MyFirstEfCoreApp\bin\Debug\netcoreapp2.0\MyFirstEfCoreApp.deps.json
+C:\dev\MyFirstEfCoreApp\MyFirstEfCoreApp\bin\Debug\netcoreapp2.0\MyFirstEfCoreApp.runtimeconfig.json
+C:\dev\MyFirstEfCoreApp\MyFirstEfCoreApp\bin\Debug\netcoreapp2.0\MyFirstEfCoreApp.runtimeconfig.dev.json
+C:\dev\MyFirstEfCoreApp\MyFirstEfCoreApp\bin\Debug\netcoreapp2.0\MyFirstEfCoreApp.dll
+C:\dev\MyFirstEfCoreApp\MyFirstEfCoreApp\obj\Debug\netcoreapp2.0\MyFirstEfCoreApp.csprojResolveAssemblyReference.cache
+C:\dev\MyFirstEfCoreApp\MyFirstEfCoreApp\obj\Debug\netcoreapp2.0\MyFirstEfCoreApp.csproj.CoreCompileInputs.cache
+C:\dev\MyFirstEfCoreApp\MyFirstEfCoreApp\obj\Debug\netcoreapp2.0\MyFirstEfCoreApp.AssemblyInfoInputs.cache
+C:\dev\MyFirstEfCoreApp\MyFirstEfCoreApp\obj\Debug\netcoreapp2.0\MyFirstEfCoreApp.AssemblyInfo.cs
